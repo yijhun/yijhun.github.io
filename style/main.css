@@ -3972,6 +3972,3 @@ input, select, textarea {
 	body.is-mobile.landing #footer {
 		background-color: #1d242a;
 	}
-
-	.site-container{background:var(--page-bg);max-width:100%;overflow:hidden}
-	
